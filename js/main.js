@@ -5,7 +5,7 @@ canvas.setAttribute("id", "bg");
 canvas.width  = window.innerWidth;
 canvas.height = window.innerHeight;
 
-const SNOW_COLOR = "rgba(235,235,235,0.8)";
+const SNOW_COLOR = "white";
 const BACKGROUND_COLOR = "#1c0030";
 
 let ctx = canvas.getContext('2d');
